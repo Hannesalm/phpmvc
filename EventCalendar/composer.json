@@ -2,7 +2,7 @@
     "name": "hannes/eventcalendar",    
     "type": "library",
     "description": "Webtemplate to create eventcalendar",
-    "keywords": ["boilerplate", "framework", "mvc", "micro", "education"],
+    "keywords": ["calendar", "education"],
     "homepage": "http://dbwebb.se",
     "license": "MIT",
     "authors": [
